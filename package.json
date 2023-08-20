@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1353.0",
+    "pg": "^8.10.0",
+    "stream": "^0.0.2",
+    "stream-to-blob": "^2.0.1",
+    "uuid": "^9.0.0"
+  }
+}
